@@ -1,4 +1,4 @@
-package model;
+package model.laboratorio01;
 
 public class Funcionario {
 

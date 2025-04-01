@@ -1,4 +1,6 @@
-package model;
+package model.laboratorio01;
+
+import model.laboratorio01.Funcionario;
 
 import java.util.Arrays;
 import java.util.List;
